@@ -1,0 +1,2 @@
+plotly @ file:///opt/conda/envs/env/conda-bld/plotly_1714510935660/work/packages/python/plotly/dist/plotly-5.22.0.tar.gz#sha256=34935d4cd949daeecd307e30375c8e6c0ec53206282e1c6fa79f491b000145f4
+streamlit @ file:///home/conda/feedstock_root/build_artifacts/streamlit_1710435941477/work
